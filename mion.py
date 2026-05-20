@@ -11,17 +11,17 @@ import time
 import threading
 import datetime
 import psutil
-import pyttsx3
+#import pyttsx3
 import speech_recognition as sr
-import customtkinter as ctk
+#import customtkinter as ctk
 import webbrowser
 import platform
 import subprocess
 import random
 import string
 import wave
-import pyaudio
-from tkinter import messagebox, filedialog, simpledialog
+#import pyaudio
+#from tkinter import messagebox, filedialog, simpledialog
 
 # Kutubxonalarni tekshirish
 try:
