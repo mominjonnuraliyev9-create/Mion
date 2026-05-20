@@ -4,3 +4,5 @@ requests
 psutil
 pyttsx3
 SpeechRecognition
+customtkinter
+pyaudio
