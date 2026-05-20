@@ -3,3 +3,4 @@ openai
 requests
 psutil
 pyttsx3
+SpeechRecognition
